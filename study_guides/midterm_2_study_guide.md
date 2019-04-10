@@ -18,7 +18,11 @@ The midterm will cover everything since the last midterm as well as systems test
 * Understand concepts on how to test performance
 * Be able to write test plans for different performance indicators and systems
 * Terminology: Service-Oriented vs Efficiency-Oriented Indicators
+     - Service-Oriented: How well the system is providing service to particular user.
+     - Efficiency-Oriented: How efficiently a system makes use of available computational resources.
 * Availability, Response Time, Throughput, Utilization
+     - Throughput: Measures how many events can the system handle in a given amount of time.
+     - Utilization: Measures what percentage or absolute amount of computing resources are used to perform a given task.
 * Performance targets, performance thresholds, KPIs - understand and be able to generate!
 * Measuring response time - methodologies
 * Understand different concepts of time: user, system, total, real
